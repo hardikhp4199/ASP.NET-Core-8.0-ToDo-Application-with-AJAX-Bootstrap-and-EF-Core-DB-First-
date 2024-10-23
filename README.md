@@ -250,9 +250,7 @@ CREATE TABLE Task (
                <th>Completion Date</th>
                <th>Status</th>
                <th>Employee Name</th>
-               <th>Actions</
-
-th>
+               <th>Actions</th>
            </tr>
        </thead>
        <tbody>
