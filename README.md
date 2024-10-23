@@ -1,0 +1,2 @@
+# ASP.NET-Core-8.0-ToDo-Application-with-AJAX-Bootstrap-and-EF-Core-DB-First-
+A ToDo app built with ASP.NET Core 8.0 using Entity Framework Core (DB-First) and AJAX for dynamic CRUD operations. Features Bootstrap for a responsive UI, task management, filtering, and search functionality. Learn modern ASP.NET practices, including validation, foreign key relationships, and seamless AJAX integration for a smooth user experience.
